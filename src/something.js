@@ -1,6 +1,7 @@
 import React from 'react'
 
 function Quote(props) {
+   console.log(props)
      return(
         <div>
            <h1>"Dont give up. {props.textName} "</h1> 
