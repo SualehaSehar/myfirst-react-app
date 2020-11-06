@@ -5,7 +5,7 @@ import Quote from './something.js'
 function App() {
   return (
     <div className="App">
-      <Quote textName = "You are doing great."/>
+      <Quote textName = "You are great."/>
     </div>
   );
 }
